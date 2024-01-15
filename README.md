@@ -32,4 +32,15 @@ This Java project showcases abstract classes and polymorphism by modeling vehicl
 - `Motorcycle` Class: Subclass for motorcycles with type, implements start and stop.
 - `Main` Class: Demonstrates abstract classes and polymorphism.
 
+# Student Management System
+
+This Java project manages student records using ArrayLists and provides functionality for adding, updating, deleting, and displaying student information.
+
+## Classes
+
+- `Student`: Represents a student with student ID, first name, last name, and GPA.
+- `StudentManagementSystem`: Manages student records using an ArrayList and provides methods to interact with the records.
+- `Program`: Implements a menu-driven console interface for interacting with the Student Management System.
+
+
 
