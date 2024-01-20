@@ -43,4 +43,24 @@ This Java project manages student records using ArrayLists and provides function
 - `Program`: Implements a menu-driven console interface for interacting with the Student Management System.
 
 
+# Basic Single Linked List
+
+This Java project implements a singly linked list data structure with nodes and basic operations.
+
+## Classes:
+
+- `Node `: Represents a node with data and a reference to the next node.
+- `SinglyLinkedList` Class: Represents a singly linked list and provides methods for insertion, deletion, traversal, and searching.
+- `Main` : Demonstrates the use of the SinglyLinkedList class.
+
+# Basic Double Linked List
+This Java project implements a doubly linked list data structure with nodes and basic operations.
+
+## Classes:
+
+- `Node` : Represents a node with data and references to the next and previous nodes.
+- `DoublyLinkedList` : Represents a doubly linked list and provides methods for insertion, deletion, traversal, and searching.
+- `Main` : Demonstrates the use of the DoublyLinkedList class.
+
+
 
