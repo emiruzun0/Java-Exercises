@@ -99,3 +99,12 @@ This Java project explores the concept of recursion by implementing recursive me
 
 - `Recursion` Class: Contains three recursive methods - factorial, fibonacci, and isPalindrome.
 - `Main` Class: Demonstrates the functionality of the recursive methods.
+
+# Binary Search Tree
+
+This Java project implements a Binary Search Tree (BST) data structure and its fundamental operations.
+
+## Classes:
+
+- `BinarySearchTree`: Implements a BST with insertion, deletion, searching, and traversals.
+- `Main` : Demonstrates BST operations.
