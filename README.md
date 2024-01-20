@@ -43,4 +43,59 @@ This Java project manages student records using ArrayLists and provides function
 - `Program`: Implements a menu-driven console interface for interacting with the Student Management System.
 
 
+# Basic Single Linked List
 
+This Java project implements a singly linked list data structure with nodes and basic operations.
+
+## Classes:
+
+- `Node `: Represents a node with data and a reference to the next node.
+- `SinglyLinkedList` Class: Represents a singly linked list and provides methods for insertion, deletion, traversal, and searching.
+- `Main` : Demonstrates the use of the SinglyLinkedList class.
+
+# Basic Double Linked List
+This Java project implements a doubly linked list data structure with nodes and basic operations.
+
+## Classes:
+
+- `Node` : Represents a node with data and references to the next and previous nodes.
+- `DoublyLinkedList` : Represents a doubly linked list and provides methods for insertion, deletion, traversal, and searching.
+- `Main` : Demonstrates the use of the DoublyLinkedList class.
+
+
+# Basic Stack Implementation
+
+This Java project implements a basic stack data structure using an array-based structure.
+
+## Classes:
+
+- `Stack` Class: Represents a stack with array storage, provides methods for push, pop, peek, isEmpty, and size.
+- `Main` Class: Demonstrates stack operations.
+
+
+# Basic Queue ADT with Array
+
+This Java project implements a basic Queue Abstract Data Type (ADT) using an array-based structure.
+
+## Classes:
+
+- `Queue` Interface: Defines queue methods - enqueue, dequeue, peek, isEmpty, and size.
+- `ArrayQueue` Class: Implements the Queue interface with array storage.
+- `Main` Class: Demonstrates queue operations.
+
+# Basic List Iterator
+This Java project demonstrates the use of a list iterator to traverse and manipulate a linked list.
+
+## Classes:
+
+- `Node` Class: Represents a node with data and a reference to the next node.
+- `SinglyLinkedList` Class: Represents a singly linked list and provides methods for insertion, deletion, traversal, and searching.
+- `ListIteratorExample` Class: Demonstrates list iteration and manipulation.
+
+# Recursive Algorithms in Java
+This Java project explores the concept of recursion by implementing recursive methods for various tasks.
+
+## Classes:
+
+- `Recursion` Class: Contains three recursive methods - factorial, fibonacci, and isPalindrome.
+- `Main` Class: Demonstrates the functionality of the recursive methods.
