@@ -108,3 +108,15 @@ This Java project implements a Binary Search Tree (BST) data structure and its f
 
 - `BinarySearchTree`: Implements a BST with insertion, deletion, searching, and traversals.
 - `Main` : Demonstrates BST operations.
+
+
+# MyPriorityQueue
+
+This Java project implements a basic Priority Queue data structure with a custom comparator.
+
+## Classes
+
+- `MyPriorityQueue<T>`: Represents a priority queue data structure. It allows you to enqueue elements with priorities and dequeue them based on their priority.
+- `Task<T>`: A sample element type used in the priority queue, consisting of an item and a priority.
+- `MyComparator<T>`: A custom comparator used for comparing `Task<T>` elements based on their priorities.
+- `Main` : Demonstrates Priority Queue operations. 
