@@ -121,4 +121,15 @@ This Java project implements a basic Priority Queue data structure with a custom
 - `MyComparator<T>`: A custom comparator used for comparing `Task<T>` elements based on their priorities.
 - `Main` : Demonstrates Priority Queue operations.
 
-# Sets 
+# Sets - Employee Management System
+
+The Employee Management System is designed to manage employee records and provides basic functionalities for handling employee data efficiently.
+
+## Classes 
+
+- `Employee` : Represents an individual employee with attributes such as Employee ID, Name, Position, and Salary.
+- `EmployeeManagementSystem` : Manages the employee records using a HashSet and provides several key features.
+- `Main` : Demonstrates the operations
+
+  
+
