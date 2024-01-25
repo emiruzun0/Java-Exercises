@@ -131,5 +131,14 @@ The Employee Management System is designed to manage employee records and provid
 - `EmployeeManagementSystem` : Manages the employee records using a HashSet and provides several key features.
 - `Main` : Demonstrates the operations
 
+# HashMap - Student  Gradebook System
+
+This Java project implements a simple student gradebook system where you can manage student records, courses, and grades.
+
+## Classes
+
+- `StudentRecord ` : Represents a student record with a name, list of courses, and course grades. Provides methods to add grades, get the student's name, courses, and course grades, and calculate average grades.
+- `GradebookManager `: Manages student records and provides methods to add students, add courses, and add grades.
+- `StudentGradebook` : Contains the main menu and user interface for interacting with the gradebook system.
   
 
