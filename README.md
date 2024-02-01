@@ -150,5 +150,18 @@ This Java project implements a simple Cell Phone Contact List where you can mana
 - `ContactListInterface` Interface : An interface that defines methods for adding, removing, searching, and displaying contacts.
 - `CellPhoneContactList` : A class that implements ContactListInterface. It represents the contact list and provides methods to add contacts, remove contacts, search for contacts, and display all contacts.
 - `Main` : The main class that contains the program's user interface and menu options for interacting with the Cell Phone Contact List.
-  
+
+## Sorting Algorithms
+
+This Java project provides implementations of various sorting algorithms, including Selection Sort, Bubble Sort, Insertion Sort, Shell Sort, Merge Sort, Heap Sort, and Quick Sort. Each sorting algorithm is implemented as a separate class, and a single main class is provided to demonstrate and test each sorting algorithm.
+
+### Selection Sort
+- `SelectionSort<T>`: Implements the Selection Sort algorithm for generic arrays.
+- `BubbleSort<T>`: Implements the Bubble Sort algorithm for generic arrays.
+- `InsertionSort<T>`: Implements the Insertion Sort algorithm for generic arrays.
+- `ShellSort<T>`: Implements the Shell Sort algorithm for generic arrays.
+- `MergeSort<T>`: Implements the Merge Sort algorithm for generic arrays.
+- `HeapSort<T>`: Implements the Heap Sort algorithm for generic arrays.
+- `QuickSort<T>`: Implements the Quick Sort algorithm for generic arrays.
+
 
